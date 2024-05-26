@@ -1,0 +1,7 @@
+location / {
+    if ($uri ~* ^/index.php$) { break; }
+    if ($uri ~* ^/(templates|static|data|system)/) { break; }
+    try_files $uri $uri/ /rewrite.php?$query_string;
+}
+rewrite ^/[a-zA-Z0-9]+/[a-zA-Z]+/(templates|static|data|system)/(.+) /$1/$2 break;
+rewrite ^/[a-zA-Z0-9]+/[a-zA-Z]+/favicon\.ico /favicon.ico break;
