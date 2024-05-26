@@ -1,0 +1,17 @@
+{
+    "name":"挽风导航",
+    "description":"主题由群友(凌云)提供!如有侵权请联系删除",
+    "homepage":"https://gitee.com/tznb/OneNav",
+    "version":"2.0.5",
+    "update":"2023/08/01",
+    "author":"落幕",
+    "screenshot":"https://img.lm21.top/wanfeng-nav-t.jpg",
+    "config": {
+        "logo":"./templates/transit/wanfeng-nav/images/1689218236746554.png",
+        "navbar-link":"<li><a href=\"https://github.com/tznb1/TwoNav\">关于本站</a></li>"
+    },
+    "support":{
+        "subitem":0,
+        "category_svg":0
+    }
+}
