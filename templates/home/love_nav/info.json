@@ -1,0 +1,23 @@
+{
+    "name":"爱导航V1",
+    "description":"轻量化设计简洁不卡顿/支持缓存/自适应/站内搜索",
+    "homepage":"https://gitee.com/tznb/TwoNav",
+    "version":"2.0.0",
+    "update":"2023/08/14",
+    "author":"落幕",
+    "screenshot":"https://img.lm21.top/love_nav.jpg",
+    "config": {
+        "logo":"./templates/admin/img/logo.png",
+        "sub_category_style": 1,
+        "cache_time":60,
+        "link_description":0,
+        "footer":"show",
+        "weather":1,
+        "card_width":1,
+        "card_spac":10,
+        "fuse_threshold":30
+    },
+    "support":{
+        "category_svg":0
+    }
+}
