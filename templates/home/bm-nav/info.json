@@ -1,0 +1,20 @@
+{
+	"name":	"BM快捷导航",
+	"description":	"用ts+react+tailwindcss开发,手机端自适应较差",
+	"homepage":	"https://toscode.gitee.com/robin901118/homepage_navigation/tree/master/",
+	"version":	"2.0.3",
+	"original_version":"4.1.4",
+	"update":	"2023/07/06",
+	"author":	"robin901118",
+	"screenshot":	"https://s3.uuu.ovh/imgs/2022/10/18/65536c3a60166f9a.jpg",
+	"config": {
+        "display_describe":1,
+        "display_admin":1,
+        "display_theme_version":1,
+        "logo":""
+    },
+    "support":{
+        "subitem":0,
+        "category_svg":0
+    }
+}
