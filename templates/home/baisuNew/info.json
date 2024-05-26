@@ -1,0 +1,17 @@
+{
+    "name":"百素New",
+    "description":"BaiSu最新主题",
+    "homepage":"https://gitee.com/baisucode/baisu-two",
+    "version":"2.0.1",
+    "original_version":"1.0.2",
+    "update":"2023/07/16",
+    "author":"百素",
+    "screenshot":"https://img.lm21.top/baisu_new.jpg",
+    "config": {
+        "describe":0
+    },
+    "support":{
+        "subitem":1,
+        "category_svg":0
+    }
+}
