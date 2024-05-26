@@ -1,0 +1,13 @@
+{
+	"name":	"花森主页",
+	"description":	"主题元素较多,加载会比较慢,未支持链接数量限制,请将站点设置>链接数量>改为0,以免影响使用",
+	"homepage":	"https://github.com/huasenjio/huasen-portal",
+	"version":	"2.0.0",
+	"update":	"2023/07/30",
+	"author":	"花森JioJio <QQ184820911>",
+	"screenshot":	"https://img.lm21.top/huasen.jpg",
+    "support":{
+        "subitem":0,
+        "category_svg":0
+    }
+}
